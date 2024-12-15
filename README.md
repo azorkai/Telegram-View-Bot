@@ -1,5 +1,8 @@
 # Telegram View Bot
 
+##Note:
+Data usage might be optimized, but I need some time. Proxy scraping will be added as well.
+
 ## Description
 This repository contains a Python-based Telegram view bot designed to automate the process of increasing view counts for Telegram posts. Using a rotating proxy system, asynchronous requests, and token fetching, this bot provides an efficient and scalable solution for increasing engagement metrics on Telegram.
 
