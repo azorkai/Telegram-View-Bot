@@ -1,6 +1,3 @@
-# Save the README for Telegram Bot repo as a downloadable file
-
-telegram_readme_content = """
 # Telegram View Bot
 
 ## Description
