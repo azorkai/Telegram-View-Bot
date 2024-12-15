@@ -1,6 +1,6 @@
 # Telegram View Bot
 
-##Note:
+## Note:
 Data usage might be optimized, but I need some time. Proxy scraping will be added as well.
 
 ## Description
